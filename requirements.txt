@@ -1,2 +1,8 @@
 ipykernel
 python-dotenv
+langchain
+langchain-ollama
+langgraph
+langchain_community
+tavily-python
+langgraph-checkpoint-sqlite
